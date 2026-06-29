@@ -1,3 +1,6 @@
+## Preview
+
+![HRSync Landing Page](screenshots/homepage.png)
 # HRSync – SaaS Landing Page
 
 ## Overview
