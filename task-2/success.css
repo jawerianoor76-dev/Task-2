@@ -1,0 +1,27 @@
+.success-section{
+    min-height:100vh;
+    display:flex;
+    align-items:center;
+    background:#f8fafc;
+}
+
+.success-card{
+    background:#fff;
+    padding:50px 40px;
+    border-radius:20px;
+    box-shadow:0 5px 25px rgba(0,0,0,.08);
+}
+
+.success-icon{
+    width:100px;
+    height:100px;
+    margin:0 auto 25px;
+    border-radius:50%;
+    background:#198754;
+    color:#fff;
+    font-size:48px;
+    font-weight:bold;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}

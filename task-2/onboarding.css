@@ -1,0 +1,22 @@
+.onboarding-section{
+    min-height:100vh;
+    background:#f8fafc;
+    display:flex;
+    align-items:center;
+    padding:50px 0;
+}
+
+.onboarding-card{
+    background:#fff;
+    padding:40px;
+    border-radius:20px;
+    box-shadow:0 5px 25px rgba(0,0,0,.08);
+}
+
+.progress{
+    height:25px;
+}
+
+.progress-bar{
+    font-weight:600;
+}
